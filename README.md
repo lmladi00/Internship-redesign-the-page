@@ -16,4 +16,6 @@ STEPS:
 4) Evaluating
 5) Post the page on the host domain.
 
+Methodology: Sprint (6 phases) - Understand, Define, Sketch, Decide, Prototype, Validate
+
 Since I started a few days ago, I am still in a phase of redesigning the page. 
