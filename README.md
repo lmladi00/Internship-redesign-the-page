@@ -11,9 +11,9 @@ The idea with this internship project is to help company to move the page from W
 
 STEPS:
 1) Move the page from Wix to Wordpress
-2) Redesign the page
+2) Redesign the page (Ideating, Sketching, Prototyping)
 3) User Interviews
-4) Redign the page (if its neccesarily)
+4) Evaluating
 5) Post the page on the host domain.
 
 Since I started a few days ago, I am still in a phase of redesigning the page. 
